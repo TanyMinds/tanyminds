@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+defaultContentLanguage = 'en'
+
+[languages.en]
+title = 'Tany Minds'
+languageCode = 'en-us'
+contentDir = 'content/en'
+
+[languages.ro]
+title = 'Tani Minds'
+languageCode = 'ro'
+contentDir = 'content/ro'
